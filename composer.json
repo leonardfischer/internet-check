@@ -1,0 +1,27 @@
+{
+  "name": "lfischer/internet-available",
+  "type": "library",
+  "description": "A small component to check if the internet is currently available / accessible",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leonard Fischer",
+      "email": "leonard.fischer1987@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">7.1",
+    "psr/log": "^1.1"
+  },
+  "require-dev": {
+    "ergebnis/composer-normalize": "^2.2",
+    "friendsofphp/php-cs-fixer": "^2.16",
+    "vimeo/psalm": "^3.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "lfischer\\internet\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
