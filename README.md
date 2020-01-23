@@ -1,6 +1,7 @@
 # Internet check
 
 A small component to check if the internet is accessible. Original idea by [Stackoverflow #4860365](http://stackoverflow.com/questions/4860365/determine-in-php-script-if-connected-to-internet).
+This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
  
 # Usage
 
